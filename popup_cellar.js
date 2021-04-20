@@ -28,6 +28,6 @@ WA.onEnterZone('popupcurie', () => {
     WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textcurie.html');
 })
 
-WA.onEnterZone('popupkraftlinie', () => {
+WA.onEnterZone('popupkraftlinien', () => {
     WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textkraftlinie.html');
 })
