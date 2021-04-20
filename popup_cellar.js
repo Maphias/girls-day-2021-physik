@@ -1,16 +1,5 @@
 WA.sendChatMessage('Willkommen zum Girls Day der Fakultät für Physik Würzburg', 'Mr Robot');
 
-openPopup( popup_levitron , text_levitron ,[{
-        label: "Close",
-        className: "primary",
-        callback: (popup) => {
-            // Close the popup when the "Close" button is pressed.
-            popup.close();
-        }
-    });
-}]): Popup
-
-
 
 var text_feldlinien =
 
