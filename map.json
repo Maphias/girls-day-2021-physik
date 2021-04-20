@@ -191,6 +191,12 @@
  "nextlayerid":40,
  "nextobjectid":37,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/maphias.github.io\/girls-day-2021-physik\/popup_main_room.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

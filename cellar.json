@@ -491,7 +491,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/maphias.github.io\/girls-day-2021-physik\/popup.js"
+         "value":"https:\/\/maphias.github.io\/girls-day-2021-physik\/popup_cellar.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
