@@ -4,3 +4,6 @@ WA.onEnterZone('popuplevitron', () => {
     WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textlevitron.html');
 })
 
+WA.onEnterZone('popupgenerator', () => {
+    WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textgenerator.html');
+})
