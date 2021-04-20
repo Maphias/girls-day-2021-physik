@@ -7,3 +7,7 @@ WA.onEnterZone('popuplevitron', () => {
 WA.onEnterZone('popupgenerator', () => {
     WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textgenerator.html');
 })
+
+WA.onEnterZone('popupinduktionskanone', () => {
+    WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textinduktionskanone.html');
+})
