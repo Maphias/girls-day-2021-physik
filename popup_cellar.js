@@ -1,2 +1,2 @@
-WA.sendChatMessage('Willkommen zum Girls Day der Fakultät für Physik Würzburg', 'Mr Robot');
+WA.sendChatMessage('Willkommen im Keller! In den Räumen sind ein paar Videos verteilt. Schaut euch doch mal um!', 'Mr Robot');
 
