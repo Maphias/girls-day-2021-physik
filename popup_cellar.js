@@ -23,3 +23,11 @@ WA.onEnterZone('popuptesla', () => {
 WA.onEnterZone('popupzitronen', () => {
     WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textzitronen.html');
 })
+
+WA.onEnterZone('popupcurie', () => {
+    WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textcurie.html');
+})
+
+WA.onEnterZone('popupkraftlinie', () => {
+    WA.openCoWebSite('https://maphias.github.io/girls-day-2021-physik/websites/textkraftlinie.html');
+})
